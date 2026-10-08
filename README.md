@@ -8,7 +8,7 @@
 
 <div align="center">
 
-# [Your Name]
+# [Shivam Prajapati]
 
 ### Data Analyst | Business Intelligence Analyst | Analytics Professional
 
@@ -16,7 +16,7 @@
 
 SQL · Python · Power BI · Advanced Excel · Statistical Analysis
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-prajapati-215212296/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-1F2937?style=flat&logo=googlechrome&logoColor=white)](https://YOUR_PORTFOLIO_URL)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
