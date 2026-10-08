@@ -402,14 +402,9 @@ print(f"Lift: {lift:.1%} | p-value: {p_value:.4f}")
 
 ##  Analytics Dashboard Showcase
 
-
-
-| Sales & Customer Dashboard | Fraud detection Dashboard |
+| Advance Sales & Customer Dashboard | Fraud Detection Dashboard |
 |:--:|:--:|
-| ![ Advance Sales Dashboard](https://github.com/Shivampraja9/Advanced-Sales-Analytics-main/blob/main/05_Images/V2/01_Executive_Overview.png)
-![ Advance Sales Dashboard](https://github.com/Shivampraja9/Advanced-Sales-Analytics-main/blob/main/05_Images/V2/02_Customer_Value_%26_Retention.png)| ![Fraud detection Dashboard](https://github.com/Shivampraja9/fraud-detection-dashboard-main/blob/main/images/executive_risk_overview.png) 
-![Fraud detection Dashboard](https://github.com/Shivampraja9/fraud-detection-dashboard-main/blob/main/images/fraud_pattern_analysis.png) |
-
+| <img src="https://raw.githubusercontent.com/Shivampraja9/Advanced-Sales-Analytics-main/main/05_Images/V2/01_Executive_Overview.png" alt="Advanced Sales Dashboard" width="100%"><br><br><img src="https://raw.githubusercontent.com/Shivampraja9/Advanced-Sales-Analytics-main/main/05_Images/V2/02_Customer_Value_%26_Retention.png" alt="Advanced Sales Dashboard" width="100%"> | <img src="https://raw.githubusercontent.com/Shivampraja9/fraud-detection-dashboard-main/main/images/executive_risk_overview.png" alt="Fraud Detection Dashboard" width="100%"><br><br><img src="https://raw.githubusercontent.com/Shivampraja9/fraud-detection-dashboard-main/main/images/fraud_pattern_analysis.png" alt="Fraud Detection Dashboard" width="100%"> |
 
 | Marketing Performance Dashboard | HR / Operations Dashboard |
 |:--:|:--:|
