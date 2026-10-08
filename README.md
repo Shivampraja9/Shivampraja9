@@ -504,6 +504,5 @@ I am always open to discussing analytics, business intelligence, and data-driven
 
 <br>
 
-*"Without data, you're just another person with an opinion."* — W. Edwards Deming (attributed)
 
 </div>
