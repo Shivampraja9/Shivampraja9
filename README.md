@@ -444,11 +444,11 @@ print(f"Lift: {lift:.1%} | p-value: {p_value:.4f}")
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Shivampraja9&hide_border=true" alt="GitHub Streak" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=YOUR_USERNAME&theme=default" alt="Profile Details" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shivampraja9&theme=default" alt="Profile Details" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&hide_border=true" alt="Contribution Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivampraja9&hide_border=true" alt="Contribution Graph" />
 
 </div>
 
