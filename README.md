@@ -406,7 +406,8 @@ print(f"Lift: {lift:.1%} | p-value: {p_value:.4f}")
 
 | Sales & Customer Dashboard | Fraud detection Dashboard |
 |:--:|:--:|
-| ![ Advance Sales Dashboard](https://github.com/Shivampraja9/Advanced-Sales-Analytics-main/blob/main/05_Images/V2/01_Executive_Overview.png) | ![Fraud detection Dashboard](https://github.com/Shivampraja9/fraud-detection-dashboard-main) |
+| ![ Advance Sales Dashboard](https://github.com/Shivampraja9/Advanced-Sales-Analytics-main/blob/main/05_Images/V2/01_Executive_Overview.png)
+![ Advance Sales Dashboard](https://github.com/Shivampraja9/Advanced-Sales-Analytics-main/blob/main/05_Images/V2/02_Customer_Value_%26_Retention.png)| ![Fraud detection Dashboard](https://github.com/Shivampraja9/fraud-detection-dashboard-main) |
 
 | Marketing Performance Dashboard | HR / Operations Dashboard |
 |:--:|:--:|
