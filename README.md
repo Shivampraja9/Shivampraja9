@@ -404,9 +404,9 @@ print(f"Lift: {lift:.1%} | p-value: {p_value:.4f}")
 
 
 
-| Sales & Customer Dashboard | Financial KPI Dashboard |
+| Sales & Customer Dashboard | Fraud detection Dashboard |
 |:--:|:--:|
-| ![Sales Dashboard](https://via.placeholder.com/480x270?text=Power+BI+Sales+Dashboard) | ![Finance Dashboard](https://via.placeholder.com/480x270?text=Financial+KPI+Dashboard) |
+| ![ Advance Sales Dashboard](https://github.com/Shivampraja9/Advanced-Sales-Analytics-main) | ![Fraud detection Dashboard](https://github.com/Shivampraja9/fraud-detection-dashboard-main) |
 
 | Marketing Performance Dashboard | HR / Operations Dashboard |
 |:--:|:--:|
