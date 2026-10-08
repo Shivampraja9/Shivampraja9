@@ -21,7 +21,7 @@ SQL · Python · Power BI · Advanced Excel · Statistical Analysis
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:YOUR_shivamprajapati911830@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github&logoColor=white)](https://github.com/Shivampraja9)
 
- [Lucknow, India] &nbsp;|&nbsp; 🌐 Open to [Remote / Hybrid / On-site] opportunities
+ [Noida, India] &nbsp;|&nbsp; 🌐 Open to [Remote / Hybrid / On-site] opportunities
 
 </div>
 
