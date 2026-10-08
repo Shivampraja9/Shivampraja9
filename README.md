@@ -402,7 +402,7 @@ print(f"Lift: {lift:.1%} | p-value: {p_value:.4f}")
 
 ##  Analytics Dashboard Showcase
 
-> Replace these placeholders with screenshots or GIFs of your own dashboards. Remove or blur any confidential data.
+
 
 | Sales & Customer Dashboard | Financial KPI Dashboard |
 |:--:|:--:|
