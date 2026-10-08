@@ -448,7 +448,7 @@ print(f"Lift: {lift:.1%} | p-value: {p_value:.4f}")
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shivampraja9&theme=default" alt="Profile Details" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Shivampraja9&hide_border=true" />
+
 </div>
 
 
