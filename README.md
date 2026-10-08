@@ -18,16 +18,16 @@ SQL · Python · Power BI · Advanced Excel · Statistical Analysis
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-prajapati-215212296/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-1F2937?style=flat&logo=googlechrome&logoColor=white)](https://YOUR_PORTFOLIO_URL)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white)](mailto:YOUR_shivamprajapati911830@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat&logo=github&logoColor=white)](https://github.com/Shivampraja9)
 
-📍 [City, Country] &nbsp;|&nbsp; 🌐 Open to [Remote / Hybrid / On-site] opportunities
+ [Lucknow, India] &nbsp;|&nbsp; 🌐 Open to [Remote / Hybrid / On-site] opportunities
 
 </div>
 
 ---
 
-## 👤 About Me
+##  About Me
 
 I am a data analytics professional who connects business questions to data-driven answers. My work spans the full analytics lifecycle: extracting and cleaning data with **SQL** and **Python**, applying **statistical analysis** to validate hypotheses, and building **Power BI** dashboards that put the right KPIs in front of decision-makers.
 
@@ -39,17 +39,17 @@ I am a data analytics professional who connects business questions to data-drive
 
 ---
 
-## 🛠️ Core Technical Skills
+##  Core Technical Skills
 
 | Domain | Skills |
 |:--|:--|
-| 📊 **Analytics** | Exploratory Data Analysis (EDA) · Descriptive Statistics · Inferential Statistics · Hypothesis Testing · Correlation & Regression · A/B Testing · Cohort Analysis · Funnel Analysis · Customer Segmentation · KPI Analysis |
-| 🗄️ **SQL** | Advanced SELECT Queries · JOINs · CTEs · Subqueries · Window Functions · CASE Statements · Aggregations · Query Optimization · Data Cleaning · Stored Procedures · Views |
-| 🐍 **Python** | Pandas · NumPy · Matplotlib · Seaborn · SciPy · Scikit-learn · Jupyter Notebook · Data Cleaning · EDA · Automation |
-| 📈 **BI & Visualization** | Power BI · DAX · Power Query · Dashboard Design · KPI Dashboards · Data Modeling · Interactive Reports · Business Intelligence |
-| 📗 **Excel** | Advanced Excel · Pivot Tables · Power Query · Power Pivot · XLOOKUP · INDEX/MATCH · Advanced Formulas · Dashboarding · Data Cleaning |
-| 🛢️ **Databases** | PostgreSQL · MySQL · SQL Server |
-| 🧰 **Tools** | Git · GitHub · VS Code · Jupyter · Docker *(include only if you use it)* |
+|  **Analytics** | Exploratory Data Analysis (EDA) · Descriptive Statistics · Inferential Statistics · Hypothesis Testing · Correlation & Regression · A/B Testing · Cohort Analysis · Funnel Analysis · Customer Segmentation · KPI Analysis |
+|  **SQL** | Advanced SELECT Queries · JOINs · CTEs · Subqueries · Window Functions · CASE Statements · Aggregations · Query Optimization · Data Cleaning · Stored Procedures · Views |
+|  **Python** | Pandas · NumPy · Matplotlib · Seaborn · SciPy · Scikit-learn · Jupyter Notebook · Data Cleaning · EDA · Automation |
+|  **BI & Visualization** | Power BI · DAX · Power Query · Dashboard Design · KPI Dashboards · Data Modeling · Interactive Reports · Business Intelligence |
+|  **Excel** | Advanced Excel · Pivot Tables · Power Query · Power Pivot · XLOOKUP · INDEX/MATCH · Advanced Formulas · Dashboarding · Data Cleaning |
+|  **Databases** | PostgreSQL · MySQL · SQL Server |
+|  **Tools** | Git · GitHub · VS Code · Jupyter · Docker *(include only if you use it)* |
 
 <details>
 <summary><b>Tech stack badges</b></summary>
@@ -72,7 +72,7 @@ I am a data analytics professional who connects business questions to data-drive
 
 ---
 
-## 🔄 Data Analytics Workflow
+##  Data Analytics Workflow
 
 ```text
 Raw Data → Data Collection → Data Cleaning → Data Transformation → EDA
@@ -91,43 +91,43 @@ Raw Data → Data Collection → Data Cleaning → Data Transformation → EDA
 
 ---
 
-## 🧠 Advanced Analytics Expertise
+##  Advanced Analytics Expertise
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**🔍 Exploratory Data Analysis**
+** Exploratory Data Analysis**
 Profiling, distribution analysis, outlier detection, and data quality assessment to guide analysis design.
 
-**📐 Statistical Testing**
+** Statistical Testing**
 t-tests, chi-square, ANOVA, non-parametric tests, confidence intervals, and A/B test evaluation.
 
-**📉 Trend Analysis**
+** Trend Analysis**
 Seasonality, growth rates, moving averages, and period-over-period comparisons.
 
-**🔮 Forecasting**
+** Forecasting**
 Baseline and time-series forecasting approaches for demand, revenue, and volume planning.
 
-**👥 Customer Analytics**
+** Customer Analytics**
 Segmentation, RFM, cohort retention, churn drivers, and customer lifetime value.
 
 </td>
 <td width="50%" valign="top">
 
-**💰 Sales Analytics**
+** Sales Analytics**
 Revenue drivers, product and region performance, pricing and discount effects, and pipeline conversion.
 
-**📣 Marketing Analytics**
+** Marketing Analytics**
 Campaign performance, channel attribution, funnel conversion, and ROI/CAC analysis.
 
-**🧩 Product Analytics**
+** Product Analytics**
 User behavior, feature adoption, engagement metrics, and funnel drop-off analysis.
 
-**🏦 Financial & Business Analytics**
+** Financial & Business Analytics**
 Profitability, margin analysis, budget vs. actual variance, and KPI tracking.
 
-**⚙️ Operational Analytics**
+** Operational Analytics**
 Process efficiency, inventory and supply chain metrics, and capacity planning.
 
 </td>
@@ -136,7 +136,7 @@ Process efficiency, inventory and supply chain metrics, and capacity planning.
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 > **Note:** Replace the bracketed fields with your own datasets, findings, and measured outcomes. Only publish insights and impact you have actually produced.
 
@@ -254,7 +254,7 @@ Process efficiency, inventory and supply chain metrics, and capacity planning.
 
 ---
 
-## 📊 Business Intelligence
+##  Business Intelligence
 
 | Capability | Description |
 |:--|:--|
@@ -285,7 +285,7 @@ Sales YTD = TOTALYTD ( [Total Sales], 'Date'[Date] )
 
 ---
 
-## 🗄️ SQL Analytics
+##  SQL Analytics
 
 Advanced SQL for analysis: CTEs, window functions, ranking, running totals, moving averages, customer lifetime value, retention and cohort analysis, complex joins, and query optimization.
 
@@ -368,7 +368,7 @@ GROUP BY customer_id;
 
 ---
 
-## 🐍 Python Analytics
+##  Python Analytics
 
 | Area | How I Use Python |
 |:--|:--|
@@ -401,7 +401,7 @@ print(f"Lift: {lift:.1%} | p-value: {p_value:.4f}")
 
 ---
 
-## 🖼️ Analytics Dashboard Showcase
+##  Analytics Dashboard Showcase
 
 > Replace these placeholders with screenshots or GIFs of your own dashboards. Remove or blur any confidential data.
 
@@ -415,7 +415,7 @@ print(f"Lift: {lift:.1%} | p-value: {p_value:.4f}")
 
 ---
 
-## 🎓 Certifications
+##  Certifications
 
 > List **only** certifications you have earned, with the credential link. Delete the rest.
 
@@ -429,7 +429,7 @@ print(f"Lift: {lift:.1%} | p-value: {p_value:.4f}")
 
 ---
 
-## 📈 GitHub Analytics
+##  GitHub Analytics
 
 <div align="center">
 
@@ -440,7 +440,7 @@ print(f"Lift: {lift:.1%} | p-value: {p_value:.4f}")
 
 ---
 
-## 🔥 Contribution & Activity
+##  Contribution & Activity
 
 <div align="center">
 
@@ -456,17 +456,17 @@ print(f"Lift: {lift:.1%} | p-value: {p_value:.4f}")
 
 ---
 
-## 🔭 Currently Working On
+##  Currently Working On
 
-- 📊 Building interactive **Power BI** dashboards with reusable DAX measures
-- 🗄️ Writing advanced **SQL analytics** (window functions, cohort and retention analysis)
-- 🤖 Automating recurring reports and data preparation with **Python**
-- 📐 Applying **statistical analysis** to validate business hypotheses
-- 💼 Developing end-to-end **business analytics projects** for my portfolio
+-  Building interactive **Power BI** dashboards with reusable DAX measures
+-  Writing advanced **SQL analytics** (window functions, cohort and retention analysis)
+-  Automating recurring reports and data preparation with **Python**
+-  Applying **statistical analysis** to validate business hypotheses
+-  Developing end-to-end **business analytics projects** for my portfolio
 
 ---
 
-## 📚 Learning & Professional Development
+##  Learning & Professional Development
 
 | Focus Area | Goal |
 |:--|:--|
@@ -480,30 +480,30 @@ print(f"Lift: {lift:.1%} | p-value: {p_value:.4f}")
 
 ---
 
-## 💪 Professional Strengths
+##  Professional Strengths
 
 | | |
 |:--|:--|
-| 🧩 **Analytical Thinking** | Breaking complex problems into testable questions |
-| 🎯 **Problem Solving** | Finding root causes, not just describing symptoms |
-| 🏢 **Business Understanding** | Linking metrics to goals, costs, and customer outcomes |
-| 📖 **Data Storytelling** | Presenting insights so stakeholders can act on them |
-| 💬 **Communication** | Explaining technical results clearly to non-technical audiences |
-| 🔎 **Attention to Detail** | Validating data, logic, and assumptions before reporting |
-| ⚖️ **Decision Making** | Weighing evidence, uncertainty, and trade-offs |
+|  **Analytical Thinking** | Breaking complex problems into testable questions |
+|  **Problem Solving** | Finding root causes, not just describing symptoms |
+|  **Business Understanding** | Linking metrics to goals, costs, and customer outcomes |
+|  **Data Storytelling** | Presenting insights so stakeholders can act on them |
+|  **Communication** | Explaining technical results clearly to non-technical audiences |
+|  **Attention to Detail** | Validating data, logic, and assumptions before reporting |
+|  **Decision Making** | Weighing evidence, uncertainty, and trade-offs |
 
 ---
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 I am always open to discussing analytics, business intelligence, and data-driven problem solving.
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-prajapati-215212296/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shivampraja9)
 [![Portfolio](https://img.shields.io/badge/Portfolio-1F2937?style=for-the-badge&logo=googlechrome&logoColor=white)](https://YOUR_PORTFOLIO_URL)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](shivamprajapati911830@gmail.com)
 
 <br>
 
