@@ -138,7 +138,6 @@ Process efficiency, inventory and supply chain metrics, and capacity planning.
 
 ##  Featured Projects
 
-> **Note:** Replace the bracketed fields with your own datasets, findings, and measured outcomes. Only publish insights and impact you have actually produced.
 
 <details open>
 <summary><b>1️⃣ E-Commerce Sales & Customer Analytics</b></summary>
